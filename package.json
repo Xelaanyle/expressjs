@@ -1,0 +1,28 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "appli express.js de type \" Hello World \"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xelaanyle/expressjs.git"
+  },
+  "keywords": [
+    "appli",
+    "test",
+    "déploiement",
+    "express.js"
+  ],
+  "author": "Xelaanyle <xelaanylettv@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xelaanyle/expressjs/issues"
+  },
+  "homepage": "https://github.com/Xelaanyle/expressjs/readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
